@@ -16,15 +16,6 @@ class _SplashSceenStateState extends State<SplashSceenState>
     with ResponsiveWidget {
   late dynamic _viewModel;
 
-  // final int _numPages = 3;
-  // final PageController _pageController = PageController(initialPage: 0);
-  // int _currentPage = 0;
-
-  // List<Widget> _buildPageIndicator() {
-  //   List<Widget> list;
-  //   for (int i = 0; i < _numPages; i++) {}
-  // }
-
   Widget build(BuildContext context) {
     return BaseWidget<SplashViewModel>(
         viewModel: SplashViewModel(),

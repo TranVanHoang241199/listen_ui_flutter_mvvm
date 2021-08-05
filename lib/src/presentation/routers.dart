@@ -10,13 +10,12 @@ class Routers {
     switch (settings.name) {
       case navigation:
         return animRoute(NavigationScreen(), name: navigation);
-        break;
       default:
-        return animRoute(Container(
-            child:
-                Center(child: Text('No route defined for ${settings.name}'))
-          ), name: "/error"
-        );
+        return animRoute(
+            Container(
+                child: Center(
+                    child: Text('No route defined for ${settings.name}'))),
+            name: "/error");
     }
   }
 

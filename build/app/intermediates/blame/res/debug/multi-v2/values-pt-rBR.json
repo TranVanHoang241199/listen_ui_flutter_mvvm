@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Flutter_project\\Hoc_flutter\\flutter_mvvm\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rBR\\values-pt-rBR.xml",
+            "outputFile": "D:\\Flutter_project\\du_an_bat_dau\\listen_project\\listen_ui_flutter_mvvm\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rBR\\values-pt-rBR.xml",
             "map": [
                 {
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\c5ac338944b0ea29abf0013fd53caf99\\play-services-base-17.1.0\\res\\values-pt-rBR\\values.xml",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\ad63ec77d818c3ba922d348884cc7db4\\jetified-play-services-basement-17.1.0\\res\\values-pt-rBR\\values.xml",
+                    "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\225b235d9594aada065b84851a4a736a\\jetified-play-services-basement-17.1.0\\res\\values-pt-rBR\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\ac8675741de9e972189fc23dd56c270a\\jetified-firebase-messaging-22.0.0\\res\\values-pt-rBR\\values.xml",
+                    "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\a9046129577ab27138309dbe19cfc89d\\jetified-firebase-messaging-22.0.0\\res\\values-pt-rBR\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

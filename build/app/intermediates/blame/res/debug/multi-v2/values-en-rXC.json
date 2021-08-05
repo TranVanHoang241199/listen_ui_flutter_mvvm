@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Flutter_project\\Hoc_flutter\\flutter_mvvm\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rXC\\values-en-rXC.xml",
+            "outputFile": "D:\\Flutter_project\\du_an_bat_dau\\listen_project\\listen_ui_flutter_mvvm\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rXC\\values-en-rXC.xml",
             "map": [
                 {
                     "source": "C:\\Users\\USER\\.gradle\\caches\\transforms-2\\files-2.1\\9a9a3c899940eeda371cc16dbe6d6cdf\\core-1.3.0\\res\\values-en-rXC\\values-en-rXC.xml",
